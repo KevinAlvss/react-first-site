@@ -1,0 +1,11 @@
+#mensagem-container{
+    grid-area: go;
+
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+#mensagem-container p{
+    color: rgb(104, 104, 104);
+}

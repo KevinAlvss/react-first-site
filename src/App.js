@@ -1,11 +1,12 @@
 import React from 'react';
 
 import './styles/global.css'
+import Layout from './Layout';
 
 function App() {
   return (
-    <h1>Kevin Lindo</h1>
-  );
+      <Layout />
+    );
 }
 
 export default App;

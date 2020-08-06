@@ -1,0 +1,13 @@
+#image-container{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    grid-area: imagem;
+
+}
+
+#image-container img{
+    height: 200px;
+}
