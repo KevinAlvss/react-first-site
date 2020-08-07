@@ -14,3 +14,13 @@
 #title-container h1{
     font-size: 53px;
 }
+
+@media(max-width:1090px){
+    #title-container{
+        align-items: center;
+
+        padding: 0;
+
+        margin-bottom: 20px;
+    }
+}
